@@ -1,8 +1,8 @@
 ![wejden-mhamdi1](https://github.com/wejden-mhamdi1/wejden-mhamdi1/blob/main/ff.PNG)
-<h1 align="center">Hi 👋, I'm Wejden Mhamdi</h1>
+<h1 align="center">Hi 👋, I'm Wejden Mhamdi java-fullstack developer</h1>
 <h3 align="center">A passionate web developer (back-end+front-end) from Tunisia</h3>
 <img align="right" width="400" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
-- 💬 Ask me about **SpringBoot, Angular, .Net**
+- 💬 Ask me about **java-SpringBoot, Angular**
 
 - 📫 How to reach me **mhamdi.wejden@esprit.tn**
 
